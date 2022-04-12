@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aider Ibragimov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aider Ibragimov
+Software developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a>
 </div>
 
 
@@ -27,65 +26,58 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2010`
+__Sevastopol National Technical University__
+- Master's degree, Radio Engineering
 
 
 
-## Awards
+## Experience
+### Python developer
 
-`2012`
-President, *Royal Society*, London, UK
+`Sep 2018 - present`
+*Qublix Games*, [https://qublix.com](https://qublix.com)
 
-Associate, *French Academy of Science*, Paris, France
+Description
 
+### Python developer
+`Nov 2015 - Sep 2018`
+*Steelkiwi*, [https://steelkiwi.com](https://steelkiwi.com)
 
+Description
 
-## Publications
+### Python developer
+`Apr 2015 - Nov 2015`
+*Cybervision*, [http://www.cybervisiontech.com](http://www.cybervisiontech.com)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Description
 
-### Journals
+### Python developer
+`Feb 2013 - Apr 2015`
+*LevelUp*, [https://levelupers.com](https://levelupers.com)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Description
 
-`1669`
-Lectiones opticæ.
+### PHP developer
+`Oct 2011 - Feb 2013`
+*LevelUp*, [https://levelupers.com](https://levelupers.com)
 
-etc. etc. etc.
+Description
 
-### Patents
+### PHP developer
+`Aug 2009 - Oct 2011`
+*LevelUp*, [https://levelupers.com](https://levelupers.com)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Description
 
+## Certificates
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+[MongoDB](http://education.mongodb.com/downloads/certificates/0f55a61e3a3e4f429566ec905864263c/Certificate.pdf)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022 -->
 
 
