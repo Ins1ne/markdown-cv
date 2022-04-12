@@ -3,10 +3,10 @@ layout: cv
 title: Aider Ibragimov's CV
 ---
 # Aider Ibragimov
-Software developer.
+Software developer
 
 <div id="webaddress">
-<a href="aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a>
+<a href="mailto:aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a>
 </div>
 
 
@@ -33,51 +33,44 @@ __Sevastopol National Technical University__
 
 
 ## Experience
-### Python developer
+### Python
 
 `Sep 2018 - present`
-*Qublix Games*, [https://qublix.com](https://qublix.com)
+__Qublix Games__, [https://qublix.com](https://qublix.com)
 
 Description
 
-### Python developer
+### Python
 `Nov 2015 - Sep 2018`
-*Steelkiwi*, [https://steelkiwi.com](https://steelkiwi.com)
+__Steelkiwi__, [https://steelkiwi.com](https://steelkiwi.com)
 
 Description
 
-### Python developer
+### Python
 `Apr 2015 - Nov 2015`
-*Cybervision*, [http://www.cybervisiontech.com](http://www.cybervisiontech.com)
+__Cybervision__, [http://www.cybervisiontech.com](http://www.cybervisiontech.com)
 
 Description
 
-### Python developer
-`Feb 2013 - Apr 2015`
-*LevelUp*, [https://levelupers.com](https://levelupers.com)
+### Python
+`Nov 2012 - Apr 2015`
+__LevelUp__, [https://levelupers.com](https://levelupers.com)
 
 Description
 
-### PHP developer
-`Oct 2011 - Feb 2013`
-*LevelUp*, [https://levelupers.com](https://levelupers.com)
+### PHP
+`Oct 2011 - Nov 2012`
+__Netpeak__, [https://netpeak.group](https://netpeak.group)
 
 Description
 
-### PHP developer
+### PHP
 `Aug 2009 - Oct 2011`
-*LevelUp*, [https://levelupers.com](https://levelupers.com)
+__Cooper-design__
 
 Description
-
-## Certificates
-
-[MongoDB](http://education.mongodb.com/downloads/certificates/0f55a61e3a3e4f429566ec905864263c/Certificate.pdf)
-
 
 
 <!-- ### Footer
 
 Last updated: April 2022 -->
-
-
