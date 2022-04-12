@@ -10,18 +10,9 @@ Software developer
 </div>
 
 
-## Currently
+### Interested in
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Looking for highload experience, good work/life balance
 
 
 ## Education
@@ -33,38 +24,38 @@ __Sevastopol National Technical University__
 
 
 ## Experience
-### Python
+
 
 `Sep 2018 - present`
 __Qublix Games__, [https://qublix.com](https://qublix.com)
 
 Description
 
-### Python
+
 `Nov 2015 - Sep 2018`
 __Steelkiwi__, [https://steelkiwi.com](https://steelkiwi.com)
 
 Description
 
-### Python
+
 `Apr 2015 - Nov 2015`
 __Cybervision__, [http://www.cybervisiontech.com](http://www.cybervisiontech.com)
 
 Description
 
-### Python
+
 `Nov 2012 - Apr 2015`
 __LevelUp__, [https://levelupers.com](https://levelupers.com)
 
 Description
 
-### PHP
+
 `Oct 2011 - Nov 2012`
 __Netpeak__, [https://netpeak.group](https://netpeak.group)
 
 Description
 
-### PHP
+
 `Aug 2009 - Oct 2011`
 __Cooper-design__
 
