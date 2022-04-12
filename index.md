@@ -12,7 +12,7 @@ Software developer
 
 ### Interested in
 
-Looking for highload experience, good work/life balance
+Highload experience, good work/life balance
 
 
 ## Education
