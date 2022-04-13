@@ -30,7 +30,8 @@ __Sevastopol National Technical University__
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
 Development and maintenance api backend for online games on mobiles/FB
-- Implemented MVP for system which host qublix games, share progress with other platforms
+- Implemented MVP for system which host qublix games and share progress with games on other platforms
+- Designed and developed tournament system for users competition
 - Created various parts of game backend platform
 - Moved new functionality to old PHP based games
 
