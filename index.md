@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Aider Ibragimov's CV
+title: Aider Ibragimov
 ---
 # Aider Ibragimov
 Software developer
