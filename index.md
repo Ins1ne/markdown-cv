@@ -30,6 +30,7 @@ __Sevastopol National Technical University__
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
 Development and maintenance api backend for online games on mobiles/FB
+
 - Implemented MVP for system which host qublix games and share progress with games on other platforms
 - Designed and developed tournament system for users competition
 - Created various parts of game backend platform
@@ -54,6 +55,7 @@ Project related to SIP phones, the idea is to provide customers with phone numbe
 __LevelUp__ <!-- , [https://levelupers.com](https://levelupers.com) -->
 
 Achievement system for users and project "Prizoland". Users play games in the social networks and get levels/achievements, track the progress of members in the competition and ratings. The project used Twisted, Tornado, Django, PostgreSQL, Redis, MongoDB.
+
 - Implemented auth service for microservices
 - Implemented usage of SaltStack into system which create and setup websites based on some templates
 
