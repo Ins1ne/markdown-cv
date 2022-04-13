@@ -32,7 +32,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: disclosure-closed;
+	margin-left: 20px;
 }
 blockquote, q {
 	quotes: none;
