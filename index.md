@@ -37,7 +37,7 @@ Development and maintenance api backend for online games on mobiles/FB
 - Moved new functionality to old PHP based games
 
 
-`Nov 2015 - Sep 2018`
+`Nov 2015 - Aug 2019`
 __Steelkiwi__ <!-- ,[https://steelkiwi.com](https://steelkiwi.com) -->
 
 Project involves extracting data from websites and creating a data feed out of the information. Used technologies: Selenium, Scrapy, Django, MySQL, MongoDB, Redis.
