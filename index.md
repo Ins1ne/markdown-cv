@@ -3,23 +3,16 @@ layout: cv
 title: Aider Ibragimov
 ---
 # Aider Ibragimov
-Software developer
+Software developer (backend)
 
 <div id="webaddress">
-<a href="mailto:aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a>
+<a href="mailto:aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a> | <a href="http://linkedin.com/in/aideribragimov/">LinkedIn</a> | <a href="https://github.com/Ins1ne">Github</a>
 </div>
 
 
-### Interested in
+### Summary
 
 Highload experience, good work/life balance
-
-
-## Education
-
-`2010`
-__Sevastopol National Technical University__
-- Master's degree, Radio Engineering
 
 
 
@@ -29,7 +22,7 @@ __Sevastopol National Technical University__
 `Sep 2018 - present`
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
-Development and maintenance api backend for online games on mobiles/FB
+Development and maintenance API backend for online games on mobiles/FB, using Python, PHP, Celery, Redis, MySQL, Flask
 
 - Implemented MVP for system which host qublix games and share progress with games on other platforms
 - Designed and developed tournament system for users competition
@@ -48,7 +41,7 @@ Project involves extracting data from websites and creating a data feed out of t
 `Apr 2015 - Nov 2015`
 __Cybervision__ <!-- , [http://www.cybervisiontech.com](http://www.cybervisiontech.com) -->
 
-Project related to SIP phones, the idea is to provide customers with phone numbers for the temporary use for ads, the project includes several applications. Some functionality written on NodeJS, some services have been written on Flask, Tornado, using MongoDB as the primary data store.
+Project related to SIP phones, the idea is to provide customers with phone numbers for the temporary use for ads, the project includes several applications. Some functionality written on NodeJS, some services have been written on Flask/Tornado, using MongoDB as the primary data store.
 
 
 `Nov 2012 - Apr 2015`
@@ -71,6 +64,13 @@ __Cooper-design__
 Developing websites using Yii Framework and Zend Framework, content scrapping.
 
 
+## Education
+
+`2010`
+__Sevastopol National Technical University__
+- Master's degree, Radio Engineering
+
+
 <!-- ### Footer
 
-Last updated: April 2022 -->
+Last updated: May 2022 -->
