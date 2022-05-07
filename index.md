@@ -3,7 +3,8 @@ layout: cv
 title: Aider Ibragimov
 ---
 # Aider Ibragimov
-Software developer (backend)
+
+Software developer
 
 <div id="webaddress">
 <a href="mailto:aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a> | <a href="http://linkedin.com/in/aideribragimov/">LinkedIn</a> | <a href="https://github.com/Ins1ne">Github</a>
