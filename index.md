@@ -66,6 +66,7 @@ Developing websites using Yii Framework and Zend Framework, content scrapping.
 ## Technical skills
 
 Development: Python, PHP, MySQL, PostgreSQL, Redis, Docker, Git, Linux, HTML, CSS, JS, Nginx, MongoDB, Celery, AsyncIO
+
 Frameworks: Django, Flask, Tornado
 
 
