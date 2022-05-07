@@ -10,10 +10,9 @@ Software developer (backend)
 </div>
 
 
-### Summary
+## Summary
 
-Highload experience, good work/life balance
-
+Highly motivated backend engineer with experience in web development. Handling variety of projects from concept to completion. Quick learning abilities and result oriented approach.
 
 
 ## Experience
@@ -62,6 +61,12 @@ Participated in development a system of automatic promotion of websites using va
 __Cooper-design__
 
 Developing websites using Yii Framework and Zend Framework, content scrapping.
+
+
+## Technical skills
+
+Development: Python, PHP, MySQL, PostgreSQL, Redis, Docker, Git, Linux, HTML, CSS, JS, Nginx, MongoDB, Celery, AsyncIO
+Frameworks: Django, Flask, Tornado
 
 
 ## Education
