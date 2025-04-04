@@ -50,46 +50,60 @@ __AppScience__
 `Sep 2018 - Nov 2022 · 4 yrs 3 mos`
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
-Development and maintenance API backend for online games on mobiles/FB, using Python, PHP, Celery, Redis, MySQL, Flask, AWS
+Developed and maintained scalable API backends for online mobile and Facebook games using Python, PHP, Celery, Redis, MySQL, Flask, and AWS.
 
-- Implemented MVP for system which host qublix games and share progress with games on other platforms
-- Designed and developed tournament system for users competition
-- Created various parts of game backend platform
-- Moved new functionality to old PHP based games
+- Built an MVP system for hosting Qublix games and enabling cross-platform progress sharing.
+- Designed and implemented a tournament system to enhance user competition and engagement.
+- Developed key components of the game backend platform, improving functionality and performance.
+- Successfully integrated new features into legacy PHP-based games, ensuring seamless updates.
 
 
 `Nov 2015 - Aug 2019 · 3 yrs 10 mos`
 __Steelkiwi__ <!-- ,[https://steelkiwi.com](https://steelkiwi.com) -->
 
-Project involves extracting data from websites and creating a data feed out of the information. Used technologies: Selenium, Scrapy, Django, MySQL, MongoDB, Redis.
+Developed a scalable data extraction pipeline to collect, process, and structure web data into actionable feeds. Leveraged a tech stack including Selenium, Scrapy, Django, MySQL, MongoDB, and Redis to ensure efficient data retrieval and storage.
 
-- Added bots to behave like real user and make actions on bettings sites
+Key Contributions:
+
+- Built and deployed automated bots to mimic human interactions on target websites, enabling seamless data collection from dynamic platforms.
+- Designed a CRM system for an HR agency to streamline candidate management and improve operational efficiency.
 
 
 `Apr 2015 - Nov 2015 · 8 mos`
 __Cybervision__ <!-- , [http://www.cybervisiontech.com](http://www.cybervisiontech.com) -->
 
-Project related to SIP phones, the idea is to provide customers with phone numbers for the temporary use for ads, the project includes several applications. Some functionality written on NodeJS, some services have been written on Flask/Tornado, using MongoDB as the primary data store.
+SIP Phone Number Platform for Temporary Ad Campaigns
+
+Led the development of a dynamic solution providing temporary phone numbers for advertising purposes. The system comprised multiple microservices, leveraging Node.js for key functionalities and Flask/Tornado for other critical services. MongoDB served as the primary database for scalable data storage.
+
+Successfully delivered an MVP in Go (Golang), attracting early customers and validating the product-market fit.
 
 
 `Nov 2012 - Apr 2015 · 2 yrs 6 mos`
 __LevelUp__ <!-- , [https://levelupers.com](https://levelupers.com) -->
 
-Achievement system for users and project "Prizoland". Users play games in the social networks and get levels/achievements, track the progress of members in the competition and ratings. The project used Twisted, Tornado, Django, PostgreSQL, Redis, MongoDB.
+Achievement & Rewards Platform – "Prizoland"
 
-- Implemented auth service for microservices
-- Implemented usage of SaltStack into system which create and setup websites based on some templates
+
+Developed a gamified achievement system where users earn levels, badges, and rewards by playing games across social networks. The platform enabled users to track progress, compete in leaderboards, and engage in challenges.
+
+Key Contributions:
+
+- Built a scalable backend using Twisted, Tornado, Django, PostgreSQL, Redis, and MongoDB to handle real-time user interactions and data processing.
+- Designed and implemented an authentication service for microservices, ensuring secure and seamless user access across the platform.
+- Integrated SaltStack to automate the creation and configuration of templated websites, improving deployment efficiency and consistency.
 
 `Oct 2011 - Nov 2012 · 1 yr 2 mos`
 __Netpeak__ <!-- , [https://netpeak.group](https://netpeak.group) -->
 
-Participated in development a system of automatic promotion of websites using various links exchanges API. Project used CakePHP, MySQL, Redis.
+Contributed to the development of an automated website promotion system by integrating multiple link exchange APIs. Leveraged CakePHP, MySQL, and Redis to build scalable and efficient solutions.
+
 
 
 `Aug 2009 - Oct 2011 · 2 yrs 3 mos`
 __Cooper-design__
 
-Developing websites using Yii Framework and Zend Framework, content scrapping.
+Built and maintained high-performance websites using PHP frameworks such as Yii and Zend, while also designing efficient web scraping tools to extract and process data.
 
 
 ## Technical skills
