@@ -4,7 +4,7 @@ title: Aider Ibragimov
 ---
 # Aider Ibragimov
 
-Software developer
+Senior Golang Developer | Distributed systems | Highload | AWS | Microservices
 
 <div id="webaddress">
 <a href="mailto:aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a> | <a href="http://linkedin.com/in/aideribragimov/">LinkedIn</a> | <a href="https://github.com/Ins1ne">Github</a>
@@ -50,7 +50,7 @@ __AppScience__
 `Sep 2018 - Nov 2022 · 4 yrs 3 mos`
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
-Development and maintenance API backend for online games on mobiles/FB, using Python, PHP, Celery, Redis, MySQL, Flask
+Development and maintenance API backend for online games on mobiles/FB, using Python, PHP, Celery, Redis, MySQL, Flask, AWS
 
 - Implemented MVP for system which host qublix games and share progress with games on other platforms
 - Designed and developed tournament system for users competition
