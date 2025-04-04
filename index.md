@@ -4,7 +4,7 @@ title: Aider Ibragimov
 ---
 # Aider Ibragimov
 
-Senior Golang Developer | Distributed systems | Highload | AWS | Microservices
+Senior Golang Developer · Distributed systems · Highload · AWS · Microservices
 
 <div id="webaddress">
 <a href="mailto:aider.ibragimov@gmail.com">aider.ibragimov@gmail.com</a> | <a href="http://linkedin.com/in/aideribragimov/">LinkedIn</a> | <a href="https://github.com/Ins1ne">Github</a>
