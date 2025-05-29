@@ -13,13 +13,13 @@ Senior Golang Developer · Distributed systems · Highload · AWS · Microservic
 
 ## Summary
 
-* Senior/Lead Golang Engineer with 15 years of experience in the software development space 
+* Senior Golang Developer with 10 years of experience in the software development space 
 * Roles: Lead Golang Engineer, Senior Golang Engineer, Senior Software Engineer 
 * Proven Team Leadership: Successfully guided and managed cross-functional engineering teams comprising up to 10 talented professionals
 * Adaptive Professional: Demonstrated versatility by thriving in both established product organizations and dynamic startup environments
 * Talent Development Specialist: Committed to nurturing emerging engineering talent through strategic mentorship and rigorous technical interviewing
 * Technical Proficiency Highlights:
-   - Primary Technologies: Golang, AWS, Kubernetes, Microservices Architecture
+   - Primary Technologies: Golang, AWS, GCP, Kubernetes, Microservices Architecture
    - Cloud Platforms: AWS, GCP
    - Containerization & Infrastructure: Docker, k8s, Terraform
    - Message Brokers: Kafka, RabbitMQ, SQS, SNS
@@ -35,38 +35,43 @@ Senior Golang Developer · Distributed systems · Highload · AWS · Microservic
 `Nov 2022 - Present`
 __AppScience__
 
-- Enhanced API Integration: Successfully improved the synchronization between AmoCRM and Airtable, resulting in a 30% increase in data consistency across systems.
-- Streamlined Logistics Workflow: Implemented logistics data retrieval processes via API, reducing the order processing time by 25%.
-- Automated Procurement Distribution: Developed an automated system for procurement assignment based on store and country, leading to a 40% reduction in manual efforts and errors in procurement assignments.
-- Increased Compliance Tracking: Enhanced compliance checks for procurement items, improving regulatory adherence rates by 35% for cross-border transactions.
-- Optimized Sales Data Updating: Created a system to update sales records in real-time based on AmoCRM changes, which improved sales data accuracy by 50%.
-- Reduction of Task Response Times: Implemented automated task assignments for delays in procurement, reducing response times by 20%.
-- Improved Reporting Efficiency: Developed a weekly reporting tool for monitoring shipments, increasing timely report delivery by 45%.
-- Automated Purchase Order Generation: Launched an automated purchase order generation feature, increasing procurement efficiency and reducing processing time by 30%.
-- Enhanced Client Communication: Improved communication protocols through real-time update notifications, increasing client satisfaction scores by 15%.
-- Data Integrity Assurance: Established automated checks to ensure data integrity across systems, reducing data discrepancies by 50%.
+Build and maintened microservices for chemical supply delivery company, using Go, AWS, PostgreSQL, Redis, Kafka, Prometheus, Grafana, gRPC, REST, Github.
+
+- Designed and implemented distributed services in Go for procurement automation and logistics management
+- Optimized internal microservice communication using gRPC, improving latency and observability
+- Built real-time synchronization pipelines (Go + Kafka) for sales and CRM updates, improving data accuracy by 50%
+- Automated weekly reporting and compliance checks, reducing manual tasks by 40%
+- Introduced structured logging and metrics collection (Prometheus + Grafana) for all critical services
+- Integrated external APIs (AmoCRM, Airtable, etc.) using Go-based connectors and workers
+- Delivered infrastructure improvements via IaC (Terraform) and CI/CD pipelines in Github
+
 
 
 `Sep 2018 - Nov 2022 · 4 yrs 3 mos`
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
-Developed and maintained scalable API backends for online mobile and Facebook games using Python, PHP, Celery, Redis, MySQL, Flask, and AWS.
+Developed and maintained scalable API backends for online mobile and Facebook games using Go, Redis, PostgreSQL, Kinesis, AWS, SQS, SNS, Python, PHP, Celery, Flask.
 
-- Built an MVP system for hosting Qublix games and enabling cross-platform progress sharing.
-- Designed and implemented a tournament system to enhance user competition and engagement.
-- Developed key components of the game backend platform, improving functionality and performance.
-- Successfully integrated new features into legacy PHP-based games, ensuring seamless updates.
+- Migrated core game services from Python to Go, achieving a 3x performance increase and lower memory usage
+- Built high-performance APIs and leaderboard systems supporting thousands of active users
+- Replaced Python/Celery background tasks with Go workers using rate-limiting, retry, and parallel queues
+- Designed tournament and progression tracking services with low-latency Redis operations
+- Led backend modernization: introduced microservices, API gateways, distributed tracing
+- Coordinated with mobile/frontend teams to deliver reliable and consistent API contracts
+- Maintained and enhanced legacy services in Python/PHP during gradual Go transition
+
+
 
 
 `Nov 2015 - Aug 2019 · 3 yrs 10 mos`
 __Steelkiwi__ <!-- ,[https://steelkiwi.com](https://steelkiwi.com) -->
 
-Developed a scalable data extraction pipeline to collect, process, and structure web data into actionable feeds. Leveraged a tech stack including Selenium, Scrapy, Django, MySQL, MongoDB, and Redis to ensure efficient data retrieval and storage.
+Developed a scalable data extraction pipeline to collect, process, and structure web data into actionable feeds. Leveraged a tech stack including Go, Selenium, PostgreSQL, MongoDB and Redis to ensure efficient data retrieval and storage.
 
 Key Contributions:
 
 - Built and deployed automated bots to mimic human interactions on target websites, enabling seamless data collection from dynamic platforms.
-- Designed a CRM system for an HR agency to streamline candidate management and improve operational efficiency.
+- Designed and implemented CRM system for an HR agency to streamline candidate management and improve operational efficiency.
 
 
 `Apr 2015 - Nov 2015 · 8 mos`
@@ -74,7 +79,7 @@ __Cybervision__ <!-- , [http://www.cybervisiontech.com](http://www.cybervisionte
 
 SIP Phone Number Platform for Temporary Ad Campaigns
 
-Led the development of a dynamic solution providing temporary phone numbers for advertising purposes. The system comprised multiple microservices, leveraging Node.js for key functionalities and Flask/Tornado for other critical services. MongoDB served as the primary database for scalable data storage.
+Led the development of a dynamic solution providing temporary phone numbers for advertising purposes. The system comprised multiple microservices, leveraging Node.js for key functionalities and Go for other critical services. MongoDB served as the primary database for scalable data storage.
 
 Successfully delivered an MVP in Go (Golang), attracting early customers and validating the product-market fit.
 
@@ -89,7 +94,7 @@ Developed a gamified achievement system where users earn levels, badges, and rew
 
 Key Contributions:
 
-- Built a scalable backend using Twisted, Tornado, Django, PostgreSQL, Redis, and MongoDB to handle real-time user interactions and data processing.
+- Built a scalable backend using Python, Twisted, Tornado, Django, PostgreSQL, Redis, and MongoDB to handle real-time user interactions and data processing.
 - Designed and implemented an authentication service for microservices, ensuring secure and seamless user access across the platform.
 - Integrated SaltStack to automate the creation and configuration of templated websites, improving deployment efficiency and consistency.
 
