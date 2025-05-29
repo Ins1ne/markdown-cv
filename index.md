@@ -13,7 +13,7 @@ Senior Golang Developer · Distributed systems · Highload · AWS · Microservic
 
 ## Summary
 
-* Senior Golang Developer with 10 years of experience in the software development space 
+* Senior Golang Developer with 10 years of experience. 
 * Roles: Lead Golang Engineer, Senior Golang Engineer, Senior Software Engineer 
 * Proven Team Leadership: Successfully guided and managed cross-functional engineering teams comprising up to 10 talented professionals
 * Adaptive Professional: Demonstrated versatility by thriving in both established product organizations and dynamic startup environments
