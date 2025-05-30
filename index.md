@@ -50,7 +50,8 @@ Build and maintened microservices for chemical supply delivery company, using Go
 `Sep 2018 - Nov 2022 · 4 yrs 3 mos`
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
-Developed and maintained scalable API backends for online mobile and Facebook games using Go, Redis, PostgreSQL, Kinesis, AWS, SQS, SNS, Python, PHP, Celery, Flask.
+Developed and maintained scalable API backends for online mobile and Facebook games using 
+Go, Redis, PostgreSQL, Kinesis, AWS, SQS, SNS, Python, PHP, Celery, Flask.
 
 - Migrated core game services from Python to Go, achieving a 3x performance increase and lower memory usage
 - Built high-performance APIs and leaderboard systems supporting thousands of active users
@@ -66,7 +67,8 @@ Developed and maintained scalable API backends for online mobile and Facebook ga
 `Nov 2015 - Aug 2019 · 3 yrs 10 mos`
 __Steelkiwi__ <!-- ,[https://steelkiwi.com](https://steelkiwi.com) -->
 
-Developed a scalable data extraction pipeline to collect, process, and structure web data into actionable feeds. Leveraged a tech stack including Go, Selenium, PostgreSQL, MongoDB and Redis to ensure efficient data retrieval and storage.
+Developed a scalable data extraction pipeline to collect, process, and structure web data into actionable feeds. 
+Leveraged a tech stack including Go, Selenium, PostgreSQL, MongoDB and Redis to ensure efficient data retrieval and storage.
 
 Key Contributions:
 
@@ -79,7 +81,8 @@ __Cybervision__ <!-- , [http://www.cybervisiontech.com](http://www.cybervisionte
 
 SIP Phone Number Platform for Temporary Ad Campaigns
 
-Led the development of a dynamic solution providing temporary phone numbers for advertising purposes. The system comprised multiple microservices, leveraging Node.js for key functionalities and Go for other critical services. MongoDB served as the primary database for scalable data storage.
+Led the development of a dynamic solution providing temporary phone numbers for advertising purposes. The system comprised multiple microservices, 
+leveraging Node.js for key functionalities and Go for other critical services. MongoDB served as the primary database for scalable data storage.
 
 Successfully delivered an MVP in Go (Golang), attracting early customers and validating the product-market fit.
 
@@ -90,7 +93,8 @@ __LevelUp__ <!-- , [https://levelupers.com](https://levelupers.com) -->
 Achievement & Rewards Platform – "Prizoland"
 
 
-Developed a gamified achievement system where users earn levels, badges, and rewards by playing games across social networks. The platform enabled users to track progress, compete in leaderboards, and engage in challenges.
+Developed a gamified achievement system where users earn levels, badges, and rewards by playing games across social networks. 
+The platform enabled users to track progress, compete in leaderboards, and engage in challenges.
 
 Key Contributions:
 
@@ -101,14 +105,16 @@ Key Contributions:
 `Oct 2011 - Nov 2012 · 1 yr 2 mos`
 __Netpeak__ <!-- , [https://netpeak.group](https://netpeak.group) -->
 
-Contributed to the development of an automated website promotion system by integrating multiple link exchange APIs. Leveraged CakePHP, MySQL, and Redis to build scalable and efficient solutions.
+Contributed to the development of an automated website promotion system by integrating multiple link exchange APIs. 
+Leveraged CakePHP, MySQL, and Redis to build scalable and efficient solutions.
 
 
 
 `Aug 2009 - Oct 2011 · 2 yrs 3 mos`
 __Cooper-design__
 
-Built and maintained high-performance websites using PHP frameworks such as Yii and Zend, while also designing efficient web scraping tools to extract and process data.
+Built and maintained high-performance websites using PHP frameworks such as Yii and Zend, 
+while also designing efficient web scraping tools to extract and process data.
 
 
 ## Technical skills
