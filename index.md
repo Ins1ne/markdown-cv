@@ -35,23 +35,24 @@ Senior Golang Developer · Distributed systems · Highload · AWS · Microservic
 `Nov 2022 - Present`
 __AppScience__
 
-Build and maintened microservices for chemical supply delivery company, using Go, AWS, PostgreSQL, Redis, Kafka, Prometheus, Grafana, gRPC, REST, Github.
+Build and maintened microservices for chemical supply delivery company.
 
 - Designed and implemented distributed services in Go for procurement automation and logistics management
 - Optimized internal microservice communication using gRPC, improving latency and observability
 - Built real-time synchronization pipelines (Go + Kafka) for sales and CRM updates, improving data accuracy by 50%
 - Automated weekly reporting and compliance checks, reducing manual tasks by 40%
 - Introduced structured logging and metrics collection (Prometheus + Grafana) for all critical services
-- Integrated external APIs (AmoCRM, Airtable, etc.) using Go-based connectors and workers
+- Integrated external APIs using Go-based connectors and workers
 - Delivered infrastructure improvements via IaC (Terraform) and CI/CD pipelines in Github
+
+__Skills__: Go · AWS · DynamoDB · PostgreSQL · Redis · Kafka · Prometheus · Grafana · Terraform · ECS · gRPC · REST · Github
 
 
 
 `Sep 2018 - Nov 2022 · 4 yrs 3 mos`
 __Qublix Games__ <!-- , [https://qublix.com](https://qublix.com) -->
 
-Developed and maintained scalable API backends for online mobile and Facebook games using 
-Go, Redis, PostgreSQL, Kinesis, AWS, SQS, SNS, Python, PHP, Celery, Flask.
+Developed and maintained scalable API backends for online mobile and Facebook games.
 
 - Migrated core game services from Python to Go, achieving a 3x performance increase and lower memory usage
 - Built high-performance APIs and leaderboard systems supporting thousands of active users
@@ -61,6 +62,7 @@ Go, Redis, PostgreSQL, Kinesis, AWS, SQS, SNS, Python, PHP, Celery, Flask.
 - Coordinated with mobile/frontend teams to deliver reliable and consistent API contracts
 - Maintained and enhanced legacy services in Python/PHP during gradual Go transition
 
+__Skills__: Go · Redis · PostgreSQL · Kubernetes (k8s) · AWS · SQS · SNS · Kinesis · Python · PHP
 
 
 
@@ -75,6 +77,9 @@ Key Contributions:
 - Built and deployed automated bots to mimic human interactions on target websites, enabling seamless data collection from dynamic platforms.
 - Designed and implemented CRM system for an HR agency to streamline candidate management and improve operational efficiency.
 
+__Skills__: Go · PostgreSQL · MongoDB · Selenium · Redis
+
+
 
 `Apr 2015 - Nov 2015 · 8 mos`
 __Cybervision__ <!-- , [http://www.cybervisiontech.com](http://www.cybervisiontech.com) -->
@@ -86,27 +91,35 @@ leveraging Node.js for key functionalities and Go for other critical services. M
 
 Successfully delivered an MVP in Go (Golang), attracting early customers and validating the product-market fit.
 
+__Skills__: Go · MongoDB · Redis · NodeJS
+
+
 
 `Nov 2012 - Apr 2015 · 2 yrs 6 mos`
 __LevelUp__ <!-- , [https://levelupers.com](https://levelupers.com) -->
 
 Achievement & Rewards Platform – "Prizoland"
 
-
 Developed a gamified achievement system where users earn levels, badges, and rewards by playing games across social networks. <br>
 The platform enabled users to track progress, compete in leaderboards, and engage in challenges.
 
 Key Contributions:
 
-- Built a scalable backend using Python, Twisted, Tornado, Django, PostgreSQL, Redis, and MongoDB to handle real-time user <br>interactions and data processing.
+- Built a scalable backend to handle real-time user interactions and data processing. <br>
 - Designed and implemented an authentication service for microservices, ensuring secure and seamless user access across the platform.
 - Integrated SaltStack to automate the creation and configuration of templated websites, improving deployment efficiency and consistency.
+
+__Skills__: Python · PostgreSQL · Redis · MongoDB · Twisted · Tornado · Django 
+
+
 
 `Oct 2011 - Nov 2012 · 1 yr 2 mos`
 __Netpeak__ <!-- , [https://netpeak.group](https://netpeak.group) -->
 
 Contributed to the development of an automated website promotion system by integrating multiple link exchange APIs. <br>
 Leveraged CakePHP, MySQL, and Redis to build scalable and efficient solutions.
+
+__Skills__: PHP · CakePHP · Redis · MySQL
 
 
 
@@ -115,6 +128,9 @@ __Cooper-design__
 
 Built and maintained high-performance websites using PHP frameworks such as Yii and Zend, <br>
 while also designing efficient web scraping tools to extract and process data.
+
+__Skills__: PHP · Redis · Yii Framework · Zend Framework · MySQL · REST · ZeroMQ · AMPQ
+
 
 
 ## Education
